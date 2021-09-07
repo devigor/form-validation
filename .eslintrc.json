@@ -3,6 +3,8 @@
         "browser": true,
         "es2021": true
     },
+
+    "ignorePatterns": ["*.scss"],
     "settings": {
         "react": {
             "version": "detect"
